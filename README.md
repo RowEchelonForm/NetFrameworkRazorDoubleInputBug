@@ -1,6 +1,10 @@
 # NetFrameworkRazorDoubleInputBug
 
-This repository can be used to reproduce an issue in Visual Studio 17.12 that causes double input when editing a .cshtml file in a .NET Framework project.
+This repository can be used to reproduce an issue in **Visual Studio 17.12** that causes double input when editing a **.cshtml** file in a **.NET Framework** project with **GitHub Copilot Completions** enabled.
+
+Here is a video showcasing the issue:
+
+https://github.com/user-attachments/assets/822f7e7b-73e2-4d79-a6db-d521df89a870
 
 ## Notes:
 
